@@ -2,8 +2,8 @@
 <resources>
     <color name="colorPrimary">#30475e</color>
     <color name="colorPrimaryDark">#222831</color>
-    <color name="colorAccent">#f2a365</color>
+    <color name="colorAccent">#ee8a73</color>
     <color name="white">#fff</color>
-    <color name="purple">#a8a3be</color>
+    <color name="purple">#8a73ee</color>
     <color name="green">#709fb0</color>
 </resources>
