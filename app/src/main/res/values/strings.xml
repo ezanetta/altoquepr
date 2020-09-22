@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Al toque PR</string>
+    <string name="title">I\'m a cat wearing a mask</string>
+    <string name="description">Photos on the Chinese social media app Weibo show pets – namely cats – wearing the makeshift masks, many of them made from traditional surgical masks. Owners are cutting holes in the material to accommodate the animal’s eyes while the rest of their face remains covered.</string>
+    <string name="pet_me_button">PET ME</string>
+    <string name="share_button">SHARE</string>
+    <string name="like_button">LIKE</string>
+</resources>
